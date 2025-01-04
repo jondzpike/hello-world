@@ -1,0 +1,6 @@
+total 20
+-rw-rw-r-- 1 jondz jondz   17 Dec 30 12:21 README.md
+-rw-rw-r-- 1 jondz jondz  596 Jan  4 15:16 sample-file.txt
+drwxrwxr-x 2 jondz jondz 4096 Jan  4 15:20 temp
+drwxrwxr-x 2 jondz jondz 4096 Jan  4 15:20 temp2
+-rw-rw-r-- 1 jondz jondz  270 Jan  4 15:17 test.log
